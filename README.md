@@ -4,7 +4,7 @@
 - Using word embedding  to find duplicate questions from [StackOverflow](https://stackoverflow.com).
 - Week 3 course of Natural Language Processing course from Coursera.
 
-
+## Solution
 To solve the problem, you will use two different models of embeddings:
 
 - Pre-trained word vectors from Google which were trained on a part of Google News dataset (about 100 billion words). The model contains 300-dimensional vectors for 3 million words and phrases. GoogleNews-vectors-negative300.bin.gz will be downloaded in download_week3_resources().
